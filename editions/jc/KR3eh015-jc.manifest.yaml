@@ -1,0 +1,1102 @@
+canonical_identifier: bkk:krp/KR3eh015/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh015/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 脾胃論
+  identifiers:
+    krp: KR3eh015
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh015.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh015_000-jc.yaml, hash: 'sha256:cd23dcf33b6c92ddacf709fe1de86aaab321b85042f40d3e1583fb9f514fc5d6'}
+  - {seq: 1, filename: KR3eh015_001-jc.yaml, hash: 'sha256:a3aebaad099b76674ba15d912c85114be5557b4de51f95c98fc3713f89e4bf99'}
+  - {seq: 2, filename: KR3eh015_002-jc.yaml, hash: 'sha256:010b2655a5eb60fdc38cb711347d9de24440d633179b4ea47cdbc15c4d467df7'}
+  - {seq: 3, filename: KR3eh015_003-jc.yaml, hash: 'sha256:9b135249c1d48f1948e3a2b71f0b1341902e9d4bfb560feefb617264a9dfc6f5'}
+  - {seq: 0, filename: KR3eh015_000-jc.yaml, hash: 'sha256:3a8af60808e649760d2de62d5c13f6df1e6c29d8fb7d7a3ae4b601d4ecc40244'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh015_000-jc.markers.yaml, hash: 'sha256:bc26bbc0c82c1e1243dc7abbd77e2eff54644e560c6c39e9a7f6966e74e0a68b'}
+  - {seq: 1, role: markers, filename: assets/KR3eh015_001-jc.markers.yaml, hash: 'sha256:ca820df0034313e9520ed4ad096b3700cb9e8cd4d09bc656a7965a743caa63aa'}
+  - {seq: 2, role: markers, filename: assets/KR3eh015_002-jc.markers.yaml, hash: 'sha256:8065d48a34441c2b3a97727637f71b9fb485f3de818b5fe5e1550706a7e785e9'}
+  - {seq: 3, role: markers, filename: assets/KR3eh015_003-jc.markers.yaml, hash: 'sha256:647ed7cf1be2663b8fa0ae8116cd3a400db840108652f1e3fe9ef631296acec8'}
+  - {seq: 0, role: markers, filename: assets/KR3eh015_000-jc.markers.yaml, hash: 'sha256:bc26bbc0c82c1e1243dc7abbd77e2eff54644e560c6c39e9a7f6966e74e0a68b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh015_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 266
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 10343
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1553
+  label: 脾胃虛實傳變論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d3
+    span:
+    - body
+    - 1553
+    - 1727
+  label: 臟氣法時升降浮沉補瀉圖說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d4
+    span:
+    - body
+    - 1727
+    - 4777
+  label: 脾胃勝衰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d5
+    span:
+    - body
+    - 4777
+    - 6041
+  label: 補脾胃瀉陰火升陽湯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d6
+    span:
+    - body
+    - 6041
+    - 6132
+  label: 肺之脾胃虛論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d7
+    span:
+    - body
+    - 6132
+    - 6460
+  label: 升陽益胃湯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d8
+    span:
+    - body
+    - 6460
+    - 7517
+  label: 君臣佐使法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d9
+    span:
+    - body
+    - 7517
+    - 7564
+  label: 分經隨病制方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d10
+    span:
+    - body
+    - 7564
+    - 7741
+  label: 通氣防風湯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d11
+    span:
+    - body
+    - 7741
+    - 8230
+  label: 羌活勝濕湯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d12
+    span:
+    - body
+    - 8230
+    - 9076
+  label: 用藥宜禁論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh015_jc_001-d3d13
+    span:
+    - body
+    - 9076
+    - 10343
+  label: 內經仲景所說脾胃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 10589
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 416
+  label: 氣運衰旺圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d3
+    span:
+    - body
+    - 416
+    - 910
+  label: 飲食勞倦所傷始為熱中論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d4
+    span:
+    - body
+    - 910
+    - 2217
+  label: 補中益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d5
+    span:
+    - body
+    - 2217
+    - 2455
+  label: 脾胃虛弱隨時為病隨病制方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d6
+    span:
+    - body
+    - 2455
+    - 4089
+  label: 黃耆人參湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d7
+    span:
+    - body
+    - 4089
+    - 4366
+  label: 除風濕羌活湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d8
+    span:
+    - body
+    - 4366
+    - 5217
+  label: 調中益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d9
+    span:
+    - body
+    - 5217
+    - 5627
+  label: 長夏濕熱胃困尤甚用清暑益氣湯論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d10
+    span:
+    - body
+    - 5627
+    - 6598
+  label: 清暑益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d11
+    span:
+    - body
+    - 6598
+    - 7716
+  label: 隨時加減用藥法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d12
+    span:
+    - body
+    - 7716
+    - 7814
+  label: 腸澼下血論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d13
+    span:
+    - body
+    - 7814
+    - 8128
+  label: 涼血地黃湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d14
+    span:
+    - body
+    - 8128
+    - 8270
+  label: 升陽除濕防風湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d15
+    span:
+    - body
+    - 8270
+    - 8732
+  label: 脾胃虛不可妄用吐藥論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d16
+    span:
+    - body
+    - 8732
+    - 8941
+  label: 安養心神調治脾胃論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d17
+    span:
+    - body
+    - 8941
+    - 9149
+  label: 凡治病當問其所便
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d18
+    span:
+    - body
+    - 9149
+    - 9813
+  label: 胃氣下溜五臟氣皆亂其為病互相出見論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d19
+    span:
+    - body
+    - 9813
+    - 10490
+  label: 陰病治陽陽病治陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh015_jc_002-d4d20
+    span:
+    - body
+    - 10490
+    - 10589
+  label: 三焦元氣衰旺
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13848
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 396
+  label: 大腸小腸五臟皆屬於胃胃虛則俱病論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d3
+    span:
+    - body
+    - 396
+    - 1154
+  label: 脾胃虛則九竅不通論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d4
+    span:
+    - body
+    - 1154
+    - 1984
+  label: 胃虛臟腑經絡皆無所受氣而俱病論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d5
+    span:
+    - body
+    - 1984
+    - 2144
+  label: 胃虛元氣不足諸病所生論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d6
+    span:
+    - body
+    - 2144
+    - 2400
+  label: 忽肥忽瘦論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d7
+    span:
+    - body
+    - 2400
+    - 2876
+  label: 天地陰陽生殺之理在升降浮沉之間論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d8
+    span:
+    - body
+    - 2876
+    - 3155
+  label: 陰陽壽夭論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d9
+    span:
+    - body
+    - 3155
+    - 3472
+  label: 五臟之氣交變論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d10
+    span:
+    - body
+    - 3472
+    - 3918
+  label: 陰陽升降論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d11
+    span:
+    - body
+    - 3918
+    - 4528
+  label: 調理脾胃治驗治法用藥若不明升降浮沉差互反損論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d12
+    span:
+    - body
+    - 4528
+    - 5019
+  label: 清神益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d13
+    span:
+    - body
+    - 5019
+    - 5265
+  label: 半夏白朮天麻湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d14
+    span:
+    - body
+    - 5265
+    - 5454
+  label: 人參芍藥湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d15
+    span:
+    - body
+    - 5454
+    - 5567
+  label: 麻黃人參芍藥湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d16
+    span:
+    - body
+    - 5567
+    - 5697
+  label: 升陽散火湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d17
+    span:
+    - body
+    - 5697
+    - 5806
+  label: 安胃湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d18
+    span:
+    - body
+    - 5806
+    - 5930
+  label: 清胃散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d19
+    span:
+    - body
+    - 5930
+    - 6071
+  label: 清陽湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d20
+    span:
+    - body
+    - 6071
+    - 6188
+  label: 胃風湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d21
+    span:
+    - body
+    - 6188
+    - 6383
+  label: 陽明病濕勝自汗論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d22
+    span:
+    - body
+    - 6383
+    - 6508
+  label: 調衛湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d23
+    span:
+    - body
+    - 6508
+    - 6597
+  label: 濕熱成痿肺金受邪論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d24
+    span:
+    - body
+    - 6597
+    - 6665
+  label: 清燥湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d25
+    span:
+    - body
+    - 6665
+    - 6792
+  label: 助陽和血補氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d26
+    span:
+    - body
+    - 6792
+    - 6869
+  label: 升陽湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d27
+    span:
+    - body
+    - 6869
+    - 6973
+  label: 升陽除濕湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d28
+    span:
+    - body
+    - 6973
+    - 7096
+  label: 益胃湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d29
+    span:
+    - body
+    - 7096
+    - 7197
+  label: 生薑和中湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d30
+    span:
+    - body
+    - 7197
+    - 7307
+  label: 強胃湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d31
+    span:
+    - body
+    - 7307
+    - 7386
+  label: 溫胃湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d32
+    span:
+    - body
+    - 7386
+    - 7443
+  label: 和中丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d33
+    span:
+    - body
+    - 7443
+    - 7510
+  label: 藿香安胃散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d34
+    span:
+    - body
+    - 7510
+    - 7581
+  label: 異功散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d35
+    span:
+    - body
+    - 7581
+    - 7738
+  label: 飲食傷脾論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d36
+    span:
+    - body
+    - 7738
+    - 7849
+  label: 五苓散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d37
+    span:
+    - body
+    - 7849
+    - 8034
+  label: 論飲酒過傷
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d38
+    span:
+    - body
+    - 8034
+    - 8197
+  label: 葛花解酲湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d39
+    span:
+    - body
+    - 8197
+    - 8271
+  label: 枳朮丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d40
+    span:
+    - body
+    - 8271
+    - 8390
+  label: 橘皮枳朮丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d41
+    span:
+    - body
+    - 8390
+    - 8498
+  label: 半夏枳朮丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d42
+    span:
+    - body
+    - 8498
+    - 8562
+  label: 木香乾姜枳朮丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d43
+    span:
+    - body
+    - 8562
+    - 8638
+  label: 木香人參生薑枳朮丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d44
+    span:
+    - body
+    - 8638
+    - 8768
+  label: 和中丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d45
+    span:
+    - body
+    - 8768
+    - 8979
+  label: 交泰丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d46
+    span:
+    - body
+    - 8979
+    - 9088
+  label: 三稜消積丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d47
+    span:
+    - body
+    - 9088
+    - 9217
+  label: 備急丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d48
+    span:
+    - body
+    - 9217
+    - 9364
+  label: 神保丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d49
+    span:
+    - body
+    - 9364
+    - 9493
+  label: 雄黃聖餅子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d50
+    span:
+    - body
+    - 9493
+    - 9562
+  label: 蠲飲枳實丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d51
+    span:
+    - body
+    - 9562
+    - 9944
+  label: 感應丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d52
+    span:
+    - body
+    - 9944
+    - 10107
+  label: 神應丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d53
+    span:
+    - body
+    - 10107
+    - 10225
+  label: 白朮安胃散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d54
+    span:
+    - body
+    - 10225
+    - 10300
+  label: 聖餅子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d55
+    span:
+    - body
+    - 10300
+    - 10363
+  label: 當歸和血散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d56
+    span:
+    - body
+    - 10363
+    - 10442
+  label: 訶梨勒丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d57
+    span:
+    - body
+    - 10442
+    - 10784
+  label: 脾胃損在調飲食適寒溫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d58
+    span:
+    - body
+    - 10784
+    - 10906
+  label: 胃風湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d59
+    span:
+    - body
+    - 10906
+    - 11038
+  label: 三黃丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d60
+    span:
+    - body
+    - 11038
+    - 11135
+  label: 白朮散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d61
+    span:
+    - body
+    - 11135
+    - 11485
+  label: 加減平胃散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d62
+    span:
+    - body
+    - 11485
+    - 11579
+  label: 散滯氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d63
+    span:
+    - body
+    - 11579
+    - 11683
+  label: 通幽湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d64
+    span:
+    - body
+    - 11683
+    - 11800
+  label: 潤腸丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d65
+    span:
+    - body
+    - 11800
+    - 11889
+  label: 導氣除燥湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d66
+    span:
+    - body
+    - 11889
+    - 11989
+  label: 丁香茱萸湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d67
+    span:
+    - body
+    - 11989
+    - 12423
+  label: 草豆蔻丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d68
+    span:
+    - body
+    - 12423
+    - 12994
+  label: 神聖復氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d69
+    span:
+    - body
+    - 12994
+    - 13338
+  label: 脾胃將理法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d70
+    span:
+    - body
+    - 13338
+    - 13618
+  label: 攝養
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d71
+    span:
+    - body
+    - 13618
+    - 13785
+  label: 遠欲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh015_jc_003-d5d72
+    span:
+    - body
+    - 13785
+    - 13848
+  label: 省言箴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh015_jc_000-d6.h1s1
+    span:
+    - front
+    - 0
+    - 319
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:c28a36e9d90c052b9d9dde9ef81334269702149ef73a9ee06e0e2c9c689e619e
