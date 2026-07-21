@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eh015_000-jc.yaml, hash: 'sha256:cd23dcf33b6c92ddacf709fe1de86aaab321b85042f40d3e1583fb9f514fc5d6'}
+  - {seq: 0, filename: KR3eh015_000-jc.yaml, hash: 'sha256:18b9be53688cb8cebe843603c4d8a656f2d3bc85e2889df1f6a1b10d05b09498'}
   - {seq: 1, filename: KR3eh015_001-jc.yaml, hash: 'sha256:a3aebaad099b76674ba15d912c85114be5557b4de51f95c98fc3713f89e4bf99'}
   - {seq: 2, filename: KR3eh015_002-jc.yaml, hash: 'sha256:010b2655a5eb60fdc38cb711347d9de24440d633179b4ea47cdbc15c4d467df7'}
   - {seq: 3, filename: KR3eh015_003-jc.yaml, hash: 'sha256:9b135249c1d48f1948e3a2b71f0b1341902e9d4bfb560feefb617264a9dfc6f5'}
-  - {seq: 0, filename: KR3eh015_000-jc.yaml, hash: 'sha256:3a8af60808e649760d2de62d5c13f6df1e6c29d8fb7d7a3ae4b601d4ecc40244'}
+  - {seq: 0, filename: KR3eh015_000-jc.yaml, hash: 'sha256:18b9be53688cb8cebe843603c4d8a656f2d3bc85e2889df1f6a1b10d05b09498'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh015_000-jc.markers.yaml, hash: 'sha256:bc26bbc0c82c1e1243dc7abbd77e2eff54644e560c6c39e9a7f6966e74e0a68b'}
+  - {seq: 0, role: markers, filename: assets/KR3eh015_000-jc.markers.yaml, hash: 'sha256:a5551fe0ee6eb709d03310795ed6e0cfcd5f414c54ebdd6a4772423d983121e1'}
   - {seq: 1, role: markers, filename: assets/KR3eh015_001-jc.markers.yaml, hash: 'sha256:1f15104517d789a12978115f29ece14cd665f321a12748149411fa2ed0e9f1ee'}
   - {seq: 2, role: markers, filename: assets/KR3eh015_002-jc.markers.yaml, hash: 'sha256:fbfaf2093cba5e54ff65932c18d67a770ffb60003a32ce2259989681f3841921'}
   - {seq: 3, role: markers, filename: assets/KR3eh015_003-jc.markers.yaml, hash: 'sha256:51a72a703a2c1f4eebad2914f67b2a8249a7be679ed09bf375ea26f90a983800'}
@@ -32,7 +32,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh015_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 266
   label: 序
@@ -1092,10 +1092,10 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh015_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 0
     - 319
   label: 後序
   type: section
   level: 1
-hash: sha256:1e4c56333e04b04008c39d0200f91a3c6ca4967a738df8648dd4e421daae46df
+hash: sha256:8fdd9e91971bb63b4907e6038e63ca6ddc6f71cd639bdcf0afbd0dd4e4de64b1

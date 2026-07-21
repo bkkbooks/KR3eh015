@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3eh015/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 後序黃帝著內經其憂天下後世可謂厚且至矣秦越人述難經以證之傷寒為病最大仲景廣而論之為萬世法至於內傷脾胃之病諸書雖有其説略而未詳我東垣先生作內外傷辨脾胃論以補之先生嘗閲內經所論四時皆以養胃氣為本宗氣之道納穀為寶蓋飲食入胃遊溢精氣上輸於脾脾氣散精上歸於肺沖和百脈頤養神明利關節通九竅滋志意者也或因飲食失節起居不時妄作勞役及喜怒悲愈傷胃之元氣使營運之氣減削不能輸精皮毛經絡故諸邪乘虛而入則痰動於體而成痼疾致真氣彌然而內消也病之所起初受熱中心火乘脾末傳寒中腎水反來侮土乃立初中末三治及君臣佐使之制經禁病禁時禁之則使學者知此病用此藥因心會通溯流得源遠溯軒岐吻合無間善乎魯齊先生之言曰東垣先生之學醫之王道也觀此書則可見矣至元丙子三月上巳日門生羅天益謹序
   hash: sha256:f125c879f5077736d14f7b8d3f3d6933273dda1f12e1fe09a73c44affd91a805
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3eh015_jc_000-d6.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 脾胃論
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3eh015.xml
-hash: sha256:1e9b33355eade49f0c26cad1d4adaadf747a1c0c110ce804a5d3094164157eae
+hash: sha256:9fca1b101c2dca563895e8d08f21c8a1879c752d1724d372a526c3801fedaf06
